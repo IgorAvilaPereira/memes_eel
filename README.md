@@ -1,5 +1,13 @@
 # memes_eel
 
+Criando aplicativos Python Desktop com o framework EEL, que permite criar aplicações desktop com HTML,CSS e JS.
+
+Esta aplicação exibe alguns dos principais memes da internet brasileira.
+
+## Demo
+
+![](demo.gif)
+
 ## Requirements
 
 ```
