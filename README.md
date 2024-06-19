@@ -4,6 +4,8 @@ Criando aplicativos Python Desktop com o framework EEL, que permite criar aplica
 
 Esta aplicação exibe alguns dos principais memes da internet brasileira.
 
+## Setup
+
 O software foi desenvolvido na seguinte máquina:
 
 ![](setup.png)
