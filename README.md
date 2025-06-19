@@ -1,7 +1,7 @@
 # 📸 memes_eel
 
 
-Uma aplicação desktop divertida feita em **Python + HTML/CSS/JS** via [Eel](https://github.com/python-eel/python-eel), que apresenta alguns dos memes mais icônicos da internet brasileira.
+Uma aplicação desktop divertida feita em **Python + HTML/CSS/JS** via [Eel](https://github.com/python-eel/Eel), que apresenta alguns dos memes mais icônicos da internet brasileira.
 
 ---
 
