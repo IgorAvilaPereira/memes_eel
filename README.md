@@ -75,8 +75,7 @@ memes_eel/
 ├── README.md
 └── LICENSE
 ```
-
-```
+---
 
 ## 🪪 Licença
 
